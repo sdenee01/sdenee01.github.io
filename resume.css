@@ -1,0 +1,25 @@
+body {
+	background-color: black;
+	color: green;
+	font-family: "lucida console";
+}
+
+h1 {
+	font-size: 50px;
+	text-align: center;
+	color: rgb(200, 0, 0);
+	font-family: georgia; 
+}
+
+h2 {
+	height: 10px;
+	color: rgb(0, 200, 0);
+}
+
+p {
+	font-size: 18px;
+}
+
+li {
+	font-size: 15px;
+}
